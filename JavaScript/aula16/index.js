@@ -1,4 +1,4 @@
-//Arrays = lista de coisas
+//Arrays = lista de coisas []
 
 //índice          0        1        2
 const alunos = ['Luiz', 'Maria', 'João'];
