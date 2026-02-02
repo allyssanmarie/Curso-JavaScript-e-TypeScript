@@ -22,9 +22,9 @@ else {
     console.log('Olá')
 }
 
-const tenhoGRana = true;
+const tenhoGrana = true;
 
-if (tenhoGRana) {
+if (tenhoGrana) {
     console.log('Vou sair de casa');
 }
 else {
